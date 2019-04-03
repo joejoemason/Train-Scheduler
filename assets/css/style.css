@@ -1,0 +1,34 @@
+body {
+    background-image: url(../images/station.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#jumbo {
+    background: none;
+    color: white;
+    border: none;
+}
+
+#heading {
+    font-family: Times;
+    font-weight: bold;
+    color: white;
+
+}
+
+#subHeading {
+    font-family: Times;
+    font-style: normal;
+    color: white;
+
+}
+
+.panel-title {
+    font-weight: bold;
+}
+
+th {
+    font-weight: bold;
+}
